@@ -1,0 +1,74 @@
+[
+    {
+        "precio": 8000,
+        "id": 1,
+        "title": "Buzo Butterflies Inspire",
+        "thumbnailUrl": "./images/b005.jpg"
+    },
+    {
+        "precio": 7500,
+        "id": 2,
+        "title": "Buzo Syre Vision",
+        "thumbnailUrl": "./images/b004.jpg"
+    },
+    {
+        "precio": 9500,
+        "id": 3,
+        "title": "Buzo Samexoy",
+        "thumbnailUrl": "./images/b001.jpg"
+    },
+    {
+        "precio": 6800,
+        "id": 4,
+        "title": "Buzo Phases X",
+        "thumbnailUrl": "./images/b002.jpg"
+    },
+    {
+        "precio": 18900,
+        "id": 5,
+        "title": "Lentes GG",
+        "thumbnailUrl": "./images/acc003.jpg"
+    },
+    {
+        "precio": 6500,
+        "id": 6,
+        "title": "Remera Tofy",
+        "thumbnailUrl": "./images/r002.jpg"
+    },
+    {
+        "precio": 6000,
+        "id": 7,
+        "title": "Remera United",
+        "thumbnailUrl": "./images/r001.jpg"
+    },
+    {
+        "precio": 17800,
+        "id": 8,
+        "title": "Collar FKL",
+        "thumbnailUrl": "./images/acc002.jpg"
+    },
+    {
+        "precio": 1000,
+        "id": 9,
+        "title": "Bolso Love",
+        "thumbnailUrl": "./images/acc001.jpg"
+    },
+    {
+        "precio": 35000,
+        "id": 10,
+        "title": "Nike Air",
+        "thumbnailUrl": "./images/z001.jpg"
+    },
+    {
+        "precio": 12300,
+        "id": 11,
+        "title": "Campera Parch",
+        "thumbnailUrl": "./images/c001.jpg"
+    },
+    {
+        "precio": 18000,
+        "id": 12,
+        "title": "Campera Zabusa",
+        "thumbnailUrl": "./images/c003.jpg"
+    }
+]
